@@ -1,0 +1,78 @@
+.App {
+    text-align: center;
+}
+
+form {
+    display: inline-block;
+    width: 500px;
+    background-color: burlywood;
+    height: 500px;
+    border-radius: 10px;
+}
+
+label {
+    display: inline-block;
+    padding: 10px;
+    font-size: 18px;
+    width: 100px;
+}
+
+input {
+    width: 170px;
+    height: 20px;
+    font-size: 15px;
+}
+
+.loginbutton {
+    margin-left: 180px;
+    margin-top: 20px;
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+}
+
+.signupbutton {
+    margin-left: 10px;
+    margin-top: 20px;
+    height: 30px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
+
+.signup-form label {
+    display: block;
+    color: #555555;
+}
+
+.signup-form input {
+    display: inline-block;
+    width: 100px;
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+}
+
+.signup-form input {
+    width: 200px;
+    border-radius: 3px;
+}
+
+.signup-form button {
+    width: 300px;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 10px;
+}
+
+.signup-form button:hover {
+    background-color: #45a049;
+}
+
+.signup-form button:hover {
+    background-color: #45a049;
+}
